@@ -16,7 +16,6 @@ function pesquisar() {
     let resultados = "";
     let titulo = ""; 
     let descricao = "";
-    let descricao1 = "";
     let imagem = "";
     let tags = "";
 
