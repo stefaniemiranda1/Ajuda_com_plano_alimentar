@@ -17,7 +17,7 @@ dependendo da pesquisa. Por exemplo, ao pesquisar grupos de alimentos como prote
 ## Tecnologias usadas:
 
 * HTML: A estrutura básica da página.
-* CSS: Da a cara da pagina organizando as cores.
+* CSS: Dá o visual à página e organiza as cores.
 * JavaScript: O JavaScript é uma linguagem de programação que adiciona interatividade e dinamismo às páginas web.
 
 ![image](https://github.com/user-attachments/assets/494de89b-88a1-4c1a-adab-a04dc7c8b4e6)
