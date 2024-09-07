@@ -22,12 +22,12 @@ dependendo da pesquisa. Por exemplo, ao pesquisar grupos de alimentos como prote
 
 ![image](https://github.com/user-attachments/assets/494de89b-88a1-4c1a-adab-a04dc7c8b4e6)
 
-print da tabela nutricial fornecida pelo Google Gemini ( incluido como imagem) 
+Print da tabela nutricial fornecida pelo Google Gemini ( incluido como imagem) 
 
 ![image](https://github.com/user-attachments/assets/d695010c-3e1a-4dda-ad9f-129b1149ab99)
 
 
-exemplo de Easter eggs( tem mais ehehe ) 
+Exemplo de Easter eggs( tem mais ehehe ) 
 
 ![image](https://github.com/user-attachments/assets/973e2b50-a2fc-4274-92f6-82fd63e10b67)
 
