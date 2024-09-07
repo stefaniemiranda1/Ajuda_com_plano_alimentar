@@ -2,10 +2,7 @@
 
 ## O que essa aplicação faz?
 
-Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, 
-tabela nutricional detalhada criada pelo Google Gemini aparecendo como resultado em forma de imagem, além de algumas curiosidades sobre os alimentos que consumimos no dia a dia.
-Além disso, apresenta três opções de metas com Easter eggs de animes com personagens que tiveram mudanças no seu visual (ou não), 
-tornando a pesquisa mais divertida.
+Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 
 ## Como ela funciona?
